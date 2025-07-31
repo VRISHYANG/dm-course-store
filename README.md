@@ -54,6 +54,10 @@ This demo site was built for educational purposes to simulate GA4 + GTM event tr
 - GA4 and GTM do not support public viewer access. For privacy and access control reasons, only exported containers and documentation are provided here.
 - Project is built entirely with HTML, CSS, and JavaScript (no frameworks), deployed on Netlify.
 
+## License
+
+This repository and its contents (including the case study PDF and JSON data) are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 ---
 
 
